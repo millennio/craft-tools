@@ -1,17 +1,26 @@
 # craft-tools
 
-Versioni Linux x86_64 già compilate di due strumenti open source dell'ArtCraft team, per usarli da Claude in cloud senza ricompilarli.
+Versioni Linux x86_64 già compilate delle sette **Crafting Apps** open source dell'ArtCraft team, per usarle da Claude in cloud senza ricompilarle (installazione in pochi secondi invece di circa un'ora).
 
-| File | Programma | Sorgente |
-|---|---|---|
-| bin/pdfcraft-cli.gz | PdfCraft (tipo Acrobat Pro) | https://github.com/storytold/pdfcraft @ 7965b49 |
-| bin/photocraft-cli.gz | PhotoCraft (tipo Photoshop) | https://github.com/storytold/photocraft @ c9a7d26 |
+| File | Programma | Alternativa a | Sorgente |
+|---|---|---|---|
+| bin/pdfcraft-cli.gz | PdfCraft | Acrobat Pro | https://github.com/storytold/pdfcraft |
+| bin/photocraft-cli.gz | PhotoCraft | Photoshop | https://github.com/storytold/photocraft |
+| bin/designcraft-cli.gz | DesignCraft | InDesign | https://github.com/storytold/designcraft @ 5382fd4 |
+| bin/vectorcraft-cli.gz | VectorCraft | Illustrator | https://github.com/storytold/vectorcraft @ f12188a |
+| bin/effectcraft-cli.gz | EffectCraft | After Effects | https://github.com/storytold/effectcraft @ 929a9c0 |
+| bin/filmcraft-cli.gz | FilmCraft | Premiere Pro | https://github.com/storytold/filmcraft @ 5231852 |
+| bin/lightcraft-cli.gz | LightCraft | Lightroom | https://github.com/storytold/lightcraft @ 2472021 |
 
-Installazione:
+## Installazione
 
 ```sh
-git clone --depth 1 https://github.com/millennio/craft-tools ~/craft-tools
-mkdir -p ~/bin && for t in pdfcraft photocraft; do gunzip -c ~/craft-tools/bin/$t-cli.gz > ~/bin/$t-cli; chmod +x ~/bin/$t-cli; done
+git clone -q --depth 1 https://github.com/millennio/craft-tools ~/craft-tools
+mkdir -p ~/bin && for f in ~/craft-tools/bin/*-cli.gz; do n=$(basename $f .gz); gunzip -c $f > ~/bin/$n; chmod +x ~/bin/$n; done
 ```
 
-Licenza dei programmi: MIT OR Apache-2.0 (vedi i file LICENSE-*). Il nome e i loghi ArtCraft sono marchi dell'ArtCraft Team.
+Strumenti per uso personale con Claude.
+
+## Licenze
+
+I programmi sono distribuiti con licenza MIT OR Apache-2.0 (vedi i file `LICENSE-*`). Il nome, il marchio e i loghi ArtCraft sono marchi dell'ArtCraft Team e non sono coperti da queste licenze.
