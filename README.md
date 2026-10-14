@@ -1,6 +1,6 @@
 # craft-tools
 
-Versioni Linux x86_64 già compilate delle sette **Crafting Apps** open source dell'ArtCraft team, per usarle da Claude in cloud senza ricompilarle (installazione in pochi secondi invece di circa un'ora).
+Versioni Linux x86_64 già compilate delle dieci **Crafting Apps** open source dell'ArtCraft team, per usarle da Claude in cloud senza ricompilarle (installazione in pochi secondi invece di circa un'ora).
 
 | File | Programma | Alternativa a | Sorgente |
 |---|---|---|---|
@@ -11,6 +11,9 @@ Versioni Linux x86_64 già compilate delle sette **Crafting Apps** open source d
 | bin/effectcraft-cli.gz | EffectCraft | After Effects | https://github.com/storytold/effectcraft @ 929a9c0 |
 | bin/filmcraft-cli.gz | FilmCraft | Premiere Pro | https://github.com/storytold/filmcraft @ 5231852 |
 | bin/lightcraft-cli.gz | LightCraft | Lightroom | https://github.com/storytold/lightcraft @ 2472021 |
+| bin/wordcraft-cli.gz | WordCraft | Word | https://github.com/storytold/wordcraft @ fc41918 |
+| bin/gridcraft-cli.gz | GridCraft | Excel | https://github.com/storytold/gridcraft @ d9d09f0 |
+| bin/deckcraft-cli.gz | DeckCraft | PowerPoint | https://github.com/storytold/deckcraft @ d78e657 |
 
 ## Installazione
 
