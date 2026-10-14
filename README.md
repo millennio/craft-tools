@@ -1,6 +1,6 @@
 # craft-tools
 
-Versioni Linux x86_64 già compilate delle dieci **Crafting Apps** open source dell'ArtCraft team, per usarle da Claude in cloud senza ricompilarle (installazione in pochi secondi invece di circa un'ora).
+Versioni Linux x86_64 già compilate delle tredici **Crafting Apps** open source dell'ArtCraft team, per usarle da Claude in cloud senza ricompilarle (installazione in pochi secondi invece di circa un'ora).
 
 | File | Programma | Alternativa a | Sorgente |
 |---|---|---|---|
@@ -14,6 +14,9 @@ Versioni Linux x86_64 già compilate delle dieci **Crafting Apps** open source d
 | bin/wordcraft-cli.gz | WordCraft | Word | https://github.com/storytold/wordcraft @ fc41918 |
 | bin/gridcraft-cli.gz | GridCraft | Excel | https://github.com/storytold/gridcraft @ d9d09f0 |
 | bin/deckcraft-cli.gz | DeckCraft | PowerPoint | https://github.com/storytold/deckcraft @ d78e657 |
+| bin/figcraft-cli.gz | FigCraft | Figma | https://github.com/storytold/figcraft @ 833f0d2 |
+| bin/soundcraft-cli.gz | SoundCraft | Pro Tools | https://github.com/storytold/soundcraft @ 3a28a65 |
+| bin/cadcraft-cli.gz | CADCraft | AutoCAD | https://github.com/storytold/cadcraft @ fc4e983 |
 
 ## Installazione
 
