@@ -4,19 +4,19 @@ Versioni Linux x86_64 già compilate delle tredici **Crafting Apps** open source
 
 | File | Programma | Alternativa a | Sorgente |
 |---|---|---|---|
-| bin/pdfcraft-cli.gz | PdfCraft | Acrobat Pro | https://github.com/storytold/pdfcraft @ 9931329 |
-| bin/photocraft-cli.gz | PhotoCraft | Photoshop | https://github.com/storytold/photocraft @ a62ef68 |
-| bin/designcraft-cli.gz | DesignCraft | InDesign | https://github.com/storytold/designcraft @ d07cbbe |
-| bin/vectorcraft-cli.gz | VectorCraft | Illustrator | https://github.com/storytold/vectorcraft @ 0a33cff |
-| bin/effectcraft-cli.gz | EffectCraft | After Effects | https://github.com/storytold/effectcraft @ 05955c0 |
-| bin/filmcraft-cli.gz | FilmCraft | Premiere Pro | https://github.com/storytold/filmcraft @ f03e215 |
-| bin/lightcraft-cli.gz | LightCraft | Lightroom | https://github.com/storytold/lightcraft @ 3b4279f |
-| bin/wordcraft-cli.gz | WordCraft | Word | https://github.com/storytold/wordcraft @ 1a34583 |
-| bin/gridcraft-cli.gz | GridCraft | Excel | https://github.com/storytold/gridcraft @ d9d09f0 |
-| bin/deckcraft-cli.gz | DeckCraft | PowerPoint | https://github.com/storytold/deckcraft @ 86c5559 |
-| bin/figcraft-cli.gz | FigCraft | Figma | https://github.com/storytold/figcraft @ 833f0d2 |
-| bin/soundcraft-cli.gz | SoundCraft | Pro Tools | https://github.com/storytold/soundcraft @ 3a28a65 |
-| bin/cadcraft-cli.gz | CADCraft | AutoCAD | https://github.com/storytold/cadcraft @ fc4e983 |
+| bin/pdfcraft-cli.gz | PdfCraft | Acrobat Pro | https://github.com/storytold/pdfcraft @ 3f5a784 |
+| bin/photocraft-cli.gz | PhotoCraft | Photoshop | https://github.com/storytold/photocraft @ ead6d21 |
+| bin/designcraft-cli.gz | DesignCraft | InDesign | https://github.com/storytold/designcraft @ 5aeb4dd |
+| bin/vectorcraft-cli.gz | VectorCraft | Illustrator | https://github.com/storytold/vectorcraft @ 299a4b3 |
+| bin/effectcraft-cli.gz | EffectCraft | After Effects | https://github.com/storytold/effectcraft @ 2a01226 |
+| bin/filmcraft-cli.gz | FilmCraft | Premiere Pro | https://github.com/storytold/filmcraft @ 4a69a03 |
+| bin/lightcraft-cli.gz | LightCraft | Lightroom | https://github.com/storytold/lightcraft @ 20ccedf |
+| bin/wordcraft-cli.gz | WordCraft | Word | https://github.com/storytold/wordcraft @ f2e15cf |
+| bin/gridcraft-cli.gz | GridCraft | Excel | https://github.com/storytold/gridcraft @ 19f4387 |
+| bin/deckcraft-cli.gz | DeckCraft | PowerPoint | https://github.com/storytold/deckcraft @ 22db926 |
+| bin/figcraft-cli.gz | FigCraft | Figma | https://github.com/storytold/figcraft @ 47438dd |
+| bin/soundcraft-cli.gz | SoundCraft | Pro Tools | https://github.com/storytold/soundcraft @ c1bf044 |
+| bin/cadcraft-cli.gz | CADCraft | AutoCAD | https://github.com/storytold/cadcraft @ b23d362 |
 
 ## Installazione
 
